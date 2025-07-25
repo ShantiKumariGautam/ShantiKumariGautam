@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shanti047btece22@igdtuw.ac.in**
 
-- 😌 Fun fact **All bugs are temporary for me BUT — a cup of chai is permanent.🫖**
+- 😌 Fun fact **All bugs are temporary for me BUT a cup of chai is permanent.☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
