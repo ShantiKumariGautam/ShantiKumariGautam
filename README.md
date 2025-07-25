@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shanti047btece22@igdtuw.ac.in**
 
-- ⚡ Fun fact **I can plan an entire hackathon event with 10 speakers, 50 participants, and 5 last-minute changes — but still forget where I kept my charger. 😅🔌**
+- 😌 Fun fact **All bugs are temporary for me BUT — a cup of chai is permanent. 🫖 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
