@@ -1,3 +1,4 @@
+![logo](https://github.com/ShantiKumariGautam/ShantiKumariGautam/blob/main/Banner.jpeg)
 <h1 align="center">Hi, I'm Shanti Kumari Gautam 🌼</h1>
 <h3 align="center">Engineer | Dreamer | Writer 💫</h3>
 
