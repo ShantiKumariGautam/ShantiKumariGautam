@@ -47,9 +47,11 @@
 <p>
   <img 
     align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shantikumarigautam&theme=tokyonight&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FF00FF&border=FF00FF" 
-    alt="shantikumarigautam" 
+    src="https://streak-stats.demolab.com?user=ShantiKumariGautam&theme=tokyonight-duo&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FF00FF&stroke=FF00FF&dates=00FFFF&currStreakNum=FF00FF&sideNums=00FFFF" 
+    alt="ShantiKumariGautam" 
   />
 </p>
+
+
 
 
